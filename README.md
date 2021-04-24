@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @miasiam
-- 👀 I’m interested in front end web development and UX/UI design
+- 👋 Hi, I’m @miasiam.
+- 👀 I’m interested in front end web development and UX/UI design.
 - 🌱 I’m currently learning the basics of front end development, HTML, CSS, and Javascript.
 
 <!---
